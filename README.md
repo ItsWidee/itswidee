@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey ! 👋
 
 <!--
 **ItsWidee/itswidee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm ItsWidee ! A young developer from France ! My biggest project, and perhaps my only one in developement, is the [StoryShare](https://storyshare.fr) website !
