@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 
 
 I'm ItsWidee ! A young developer from France ! My biggest project, and perhaps my only one in developement, is the [StoryShare](https://storyshare.fr) website !
+
+*P.S : I bad at front-end, but I like back-end !*
